@@ -8,7 +8,7 @@
 
 ## Installation
 
-Download from [GitHub Releases]() and install it.
+Download from [GitHub Releases](https://github.com/elephantrobotics/MyStudio/releases) and install it.
 
 ## How to use
 
