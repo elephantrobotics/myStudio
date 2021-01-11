@@ -14,7 +14,13 @@ Download from [GitHub Releases](https://github.com/elephantrobotics/MyStudio/rel
 
 **For Windows or MacOS**
 
-Unzip the software, find `MyStudio.exe` or `MyStudio`, double-click to run.
+You can download `exe` to install the software.
+
+At the same time, we also provide the installation free version. Unzip the `zip`, find `MyStudio.exe`, double-click to run.
+
+**For MacOS**
+
+Unzip the software, find `MyStudio`, double-click to run.
 
 **For Linux**
 
