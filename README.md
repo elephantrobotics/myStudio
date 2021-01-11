@@ -10,17 +10,19 @@
 
 Download from [GitHub Releases](https://github.com/elephantrobotics/MyStudio/releases) and install it.
 
+You can also [download](https://www.elephantrobotics.com/myCobot/#myStudio) the software from the official website.
+
 ## How to use
 
 **For Windows or MacOS**
 
-You can download `exe` to install the software.
+You can download `.exe` to install the software.
 
 At the same time, we also provide the installation free version. Unzip the `zip`, find `MyStudio.exe`, double-click to run.
 
 **For MacOS**
 
-Unzip the software, find `MyStudio`, double-click to run.
+You can download `.dmg` to install the software.
 
 **For Linux**
 
