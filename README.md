@@ -26,4 +26,4 @@ You can download `.dmg` to install the software.
 
 **For Linux**
 
-Decompression software. Open a terminal, enter the unzipped directory, and run `./MyStudio`.
+Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./MyStudio`.
