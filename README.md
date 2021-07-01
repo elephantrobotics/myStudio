@@ -27,3 +27,10 @@ You can download `.dmg` to install the software.
 **For Linux**
 
 Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./MyStudio`.
+
+## Open Source Firmware Flashing
+
+If you would like an open-source host-side flashing process, please see: <br/>
+<https://github.com/zlj-zz/minimycobotflasher>
+
+Please note that this tool will still download proprietary firmware binaries.
