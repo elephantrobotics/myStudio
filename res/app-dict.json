@@ -1,0 +1,279 @@
+{
+    "basic": {
+        "myCobotBLE": {
+            "English": "This is a Bluetooth server for communicating with app",
+            "Chinese": "这是一个用于与应用程序通信的蓝牙服务器",
+            "Japanese": "これは、アプリケーションと通信するためのBluetoothサーバです",
+            "Author": "Elephant Robotics",
+            "Version": {
+                "v1.0": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/myCobotBLE/v1.0/myCobotBLE-1.0.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/myCobotBLE-1.0.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/myCobotBLE-1.0.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/myCobotBLE-1.0.ino.bin"
+                        ]
+                    }
+                }
+            },
+            "logo": "static/Topbar/basic.png",
+            "download": "false"
+        },
+        "minirobot": {
+            "English": "This firmware integrates maincontrol calibration transponder information",
+            "Chinese": "此固件集成了maincontrol calibration transponder information",
+            "Japanese": "このファームウェアは、mancontrol caribration transponder informationを統合しています。",
+            "Author": "Elephant Robotics",
+            "Version": {
+                "v0.4": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/newminirobot/minirobot-0.4.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/minirobot-0.4.bin"
+                        ],
+                        "linux": [
+                            "static/res/minirobot-0.4.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/minirobot-0.4.bin"
+                        ]
+                    }
+                }
+            },
+            "logo": "static/Topbar/basic.png",
+            "download": "false"
+        }
+    },
+    "atom": {
+        "AtomMain": {
+            "English": "Used to control mycobot.",
+            "Chinese": "用来控制mycobot。",
+            "Japanese": "mycobotをコントロールするために使用します。",
+            "Author": "Elephant Robotics",
+            "Version": {
+                "v3.2": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/AtomMain/v3.2/AtomMain-3.2.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/AtomMain-3.2.bin"
+                        ],
+                        "linux": [
+                            "static/res/AtomMain-3.2.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/AtomMain-3.2.bin"
+                        ]
+                    }
+                },
+                "v3.1": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/AtomMain/v3.1/AtomMain-3.1.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/AtomMain-3.1.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/AtomMain-3.1.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/AtomMain-3.1.ino.bin"
+                        ]
+                    }
+                },
+                "v3.0": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/AtomMain/v3.0/AtomMain-3.0.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/AtomMain-3.0.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/AtomMain-3.0.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/AtomMain-3.0.ino.bin"
+                        ]
+                    }
+                },
+                "v2.8": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/AtomMain/v2.8/AtomMain-2.8.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/AtomMain-2.8.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/AtomMain-2.8.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/AtomMain-2.8.ino.bin"
+                        ]
+                    }
+                },
+                "v2.7": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/AtomMain/v2.7/AtomMain-2.7.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/AtomMain-2.7.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/AtomMain-2.7.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/AtomMain-2.7.ino.bin"
+                        ]
+                    }
+                },
+                "v2.6": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/AtomMain/v2.6/AtomMain-2.6.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/AtomMain-2.6.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/AtomMain-2.6.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/AtomMain-2.6.ino.bin"
+                        ]
+                    }
+                },
+                "v2.5": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/AtomMain/v2.5/AtomMain-2.5.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/AtomMain-2.5.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/AtomMain-2.5.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/AtomMain-2.5.ino.bin"
+                        ]
+                    }
+                },
+                "v2.4": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/AtomMain/v2.4/AtomMain-2.4.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/AtomMain-2.4.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/AtomMain-2.4.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/AtomMain-2.4.ino.bin"
+                        ]
+                    }
+                },
+                "v2.3": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/AtomMain/v2.3/AtomMain-2.3.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/AtomMain-2.3.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/AtomMain-2.3.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/AtomMain-2.3.ino.bin"
+                        ]
+                    }
+                }
+            },
+            "logo": "static/Topbar/AtomMain.png"
+        }
+    },
+    "tools": {
+        "CheckPID": {
+            "English": "Used to view and change PID.",
+            "Chinese": "用来查看和更改pid。",
+            "Japanese": "pidの表示と変更に使用します。",
+            "Author": "Elephant Robotics",
+            "Version": {
+                "v2.0": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/CheckPID/v2.0/CheckPID-2.0.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/CheckPID-2.0.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/CheckPID-2.0.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/CheckPID-2.0.ino.bin"
+                        ]
+                    }
+                },
+                "v1.0": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/CheckPID/v1.0/CheckPID-1.0.ino.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/CheckPID-1.0.ino.bin"
+                        ],
+                        "linux": [
+                            "static/res/CheckPID-1.0.ino.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/CheckPID-1.0.ino.bin"
+                        ]
+                    }
+                }
+            },
+            "logo": "static/Topbar/CheckPID.png"
+        },
+        "TestServo": {
+            "English": "After flash, the USB serial port of atom will print the detected servo serial number of ASCII type at the baud rate of 115200",
+            "Chinese": "烧录后，atom的USB串口会以115200的波特率打印ASCII类型的检测到的伺服序号",
+            "Japanese": "flash以降、atomのUSBシリアルは、ASCIIタイプの検出されたサーボ番号を11200のボーレートでプリントします。",
+            "Author": "Elephant Robotics",
+            "Version": {
+                "v1.0": {
+                    "url": [
+                        "https://www.elephantrobotics.com/software/mystudio/apps-2.0/myCobot/TestServo/cobot_atom_test_servo.bin"
+                    ],
+                    "save_path": {
+                        "win": [
+                            "resources/static/res/cobot_atom_test_servo.bin"
+                        ],
+                        "linux": [
+                            "static/res/cobot_atom_test_servo.bin"
+                        ],
+                        "macos": [
+                            "/Applications/Mystudio.app/Contents/Resources/static/res/cobot_atom_test_servo.bin"
+                        ]
+                    }
+                }
+            },
+            "logo": "static/Topbar/CheckPID.png"
+        }
+    }
+}
