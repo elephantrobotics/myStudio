@@ -1,10 +1,10 @@
 # MyStudio
 
-![demo 1](./res/Screenshot-1.png)
+![demo 1](./res/display01.png)
 
-![demo 2](./res/Screenshot-2.png)
+![demo 2](./res/display02.png)
 
-![demo 3](./res/Screenshot-3.png)
+![demo 3](./res/display03.png)
 
 ## Installation
 
@@ -18,15 +18,13 @@ You can also [download](https://www.elephantrobotics.com/myCobot/#myStudio) the 
 
 You can download `.exe` to install the software.
 
-At the same time, we also provide the installation free version. Unzip the `zip`, find `MyStudio.exe`, double-click to run.
-
 **For MacOS**
 
 You can download `.dmg` to install the software.
 
 **For Linux**
 
-Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./MyStudio`.
+Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./Mystudio-xxx.AppImage`.
 
 ## Open Source Firmware Flashing
 
