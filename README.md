@@ -24,7 +24,11 @@ You can download `.dmg` to install the software.
 
 **For Linux**
 
-Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./Mystudio-xxx.AppImage`.
+Enter the `uname - m` command in the command line to check the hardware architecture of the current system.
+If it is x86_64:
+Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./myStudio-xxx.AppImage`.
+If it is aarch64:
+Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./myStudio-xxx-arm64.AppImage`.
 
 ## Open Source Firmware Flashing
 
