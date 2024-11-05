@@ -14,7 +14,7 @@ You can also [download](https://www.elephantrobotics.com/myCobot/#myStudio) the 
 
 ## How to use
 
-**For Windows or MacOS**
+**For Windows**
 
 You can download `.exe` to install the software.
 
@@ -27,10 +27,10 @@ You can download `.dmg` to install the software.
 Enter the `uname - m` command in the command line to check the hardware architecture of the current system.
 
 If it is x86_64:
-Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./myStudio-xxx.AppImage`.
+Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./myStudio-xxx-linux_x64.AppImage`.
 
 If it is aarch64:
-Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./myStudio-xxx-arm64.AppImage`.
+Decompression software. Open a terminal, enter the unzipped directory, and run `sudo ./myStudio-xxx-linux_arm64.AppImage`.
 
 ## Open Source Firmware Flashing
 
